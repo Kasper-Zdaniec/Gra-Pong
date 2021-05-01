@@ -2,4 +2,4 @@ Gra komputerowa napisana za pomoca języka Python z wykorzystaniem biblioteki tu
 
 # Grę uruchamia się w terminalu za pomocą komendy:
 
-py pong.py
+# py pong.py
